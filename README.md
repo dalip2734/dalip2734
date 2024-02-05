@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dalip2734
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on web designing
-- 📫 How to reach me
+- 🌱 Web-Developer
+- 💞️ I’m looking to collaborate on web-Development
+- 📫Reach me:
 -  email-dalipyadav68@gmail.com
 -  twitter-i_dalipkumar
 -  linkedin-dalipkumar
