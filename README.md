@@ -2,7 +2,7 @@
 - 🌱 Web-Developer
 - 💞️ I’m looking to collaborate on web-Development
 - 📫Reach me:
--  email-dalipyadav68@gmail.com
+-  email-dalipyadavcse@gmail.com
 -  twitter-i_dalipkumar
 -  linkedin-dalipkumar
 
